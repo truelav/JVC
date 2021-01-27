@@ -5,6 +5,11 @@
   grid-template-columns: 3fr 2fr;
 }
 
+.productTopImageContainer {
+  max-width: 80%;
+  margin-bottom: auto;
+}
+
 .productTopInfoContainer {
   max-width: 80%;
   margin: auto;
@@ -46,4 +51,29 @@
   color: red;
   border-radius: 5px;
   margin: 0 5px;
+}
+
+
+/* ICONS SECTION */
+.productIconsContainer {
+  max-width: 90vw;
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr 1fr;
+  margin: 4em auto;
+  padding-top: 1em;
+  border-top: 1px solid #e4e4e4;
+  border-bottom: 1px solid #e4e4e4;
+}
+
+.productIconsInnerContainer {
+  padding: 1em;
+  display: flex;
+  flex-direction: column;
+  margin: auto;
+  text-align: center;
+}
+
+.productIconImage {
+  max-width: 60px;
+  margin: auto;
 }

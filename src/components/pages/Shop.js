@@ -1,7 +1,8 @@
 import React, { Component } from 'react';
 
 import items from '../../database/jvc.json';
-import './products.css'
+import './products.css';
+import './shop.css';
 import ProductsGrid  from '../layout/ProductsGrid'
 
 export class Shop extends Component {
@@ -57,63 +58,63 @@ export class Shop extends Component {
             <div className="">
               <div>
                 <h3 className="productsFilterCategoryH3">Series</h3>
-                <button onClick={() => this.handleFilterAll()} className="buyNowButton">
+                <button onClick={() => this.handleFilterAll()} className="filterButton">
                   See All
                 </button>
-                <button onClick={() => this.handleClickFilter("Cameras")} className="LearnMoreButton">
+                <button onClick={() => this.handleClickFilter("Cameras")} className="filterButton">
                   Select Series
                 </button>
-                <button onClick={() => this.handleClickFilter("Cameras")} className="LearnMoreButton">
+                <button onClick={() => this.handleClickFilter("Cameras")} className="filterButton">
                   Premier Series
                 </button>
-                <button onClick={() => this.handleClickFilter("Cameras")} className="LearnMoreButton">
+                <button onClick={() => this.handleClickFilter("Cameras")} className="filterButton">
                   Elite Series
                 </button>
               </div>
               <div>
                 <h3 className="productsFilterCategoryH3">OS</h3>
-                <button onClick={() => this.handleClickFilter("Cameras")} className="LearnMoreButton">
+                <button onClick={() => this.handleClickFilter("Cameras")} className="filterButton">
                   Roku/Smart TVs
                 </button>
-                <button onClick={() => this.handleClickFilter("Cameras")} className="LearnMoreButton">
+                <button onClick={() => this.handleClickFilter("Cameras")} className="filterButton">
                   Nonsmart TVs
                 </button>
               </div>
               <div>
                 <h3 className="productsFilterCategoryH3">Screens</h3>
-                <button onClick={() => this.handleClickFilter("Printers")} className="LearnMoreButton">
+                <button onClick={() => this.handleClickFilter("Printers")} className="filterButton">
                   KSF LED
                 </button>
-                <button onClick={() => this.handleClickFilter("Printers")} className="LearnMoreButton">
+                <button onClick={() => this.handleClickFilter("Printers")} className="filterButton">
                   Edge To Edge
                 </button>
               </div>
               <div>
                 <h3 className="productsFilterCategoryH3">Sizes</h3>
-                <div className="productsFilterContainer">
+                <button onClick={() => this.handleFilterAll()} className="filterButton">
                   70"
-                </div>
-                <div className="productsFilterContainer">
+                </button>
+                <button onClick={() => this.handleFilterAll()} className="filterButton">
                   65"
-                </div>
-                <div className="productsFilterContainer">
+                </button>
+                <button onClick={() => this.handleFilterAll()} className="filterButton">
                   58"
-                </div>
-                <div className="productsFilterContainer">
+                </button>
+                <button onClick={() => this.handleFilterAll()} className="filterButton">
                   55"
-                </div>
-                <div className="productsFilterContainer">
+                </button>
+                <button onClick={() => this.handleFilterAll()} className="filterButton">
                   50"
-                </div>
-                <div className="productsFilterContainer">
+                </button>
+                <button onClick={() => this.handleFilterAll()} className="filterButton">
                   40"
-                </div>
-                <div className="productsFilterContainer">
+                </button>
+                <button onClick={() => this.handleFilterAll()} className="filterButton">
                   32"
-                </div>
-                <div className="productsFilterContainer">
+                </button>
+                <button onClick={() => this.handleFilterAll()} className="filterButton">
                   24"
-                </div>
+                </button>
               </div>
             </div>
           </div>

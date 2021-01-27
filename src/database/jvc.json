@@ -39,10 +39,10 @@
     "whereToBuyLink": "https://www.walmart.com/ip/JVC-70-Class-4K-UHD-2160p-Roku-Smart-TV-LT-70MAW795/297896134",
     "topP": "JVC 70 Inch Class 4K UHD 2160p Roku Smart TV LT-70MAW795 is more than a smart TV - it's a better TV. All of your entertainment is in one place with access to over 500,000 movies, TV episodes, and more than 5,000 streaming channels.",
     "topIcons": [
-      "assets/icons/icon1.png",
-      "assets/icons/selecticon.png",
-      "assets/icons/icon1.png",
-      "assets/icons/icon3.png"
+      "assets/images/icons/icon1.png",
+      "assets/images/icons/selecticon.png",
+      "assets/images/icons/icon1.png",
+      "assets/images/icons/icon3.png"
     ],
     "topIconsText": [
       "4K Resolution¹",
@@ -95,7 +95,6 @@
     }
   },
 
-
   {
     "productId": "LT-58MAW595",
     "h1": "58” 4K UHD HDR Roku Smart LED TV",
@@ -107,11 +106,11 @@
     "imageUrl": "/assets/images/58maw595/1.jpg",
     "productsIconImageUrl": "/assets/images/icons/roku.png",
     "imageCarousel": [
-      "products/58maw595/1.jpg",
-      "products/58maw595/2.jpg",
-      "products/58maw595/3.jpg",
-      "products/58maw595/4.jpg",
-      "products/58maw595/energy.jpg"
+      "assets/images/58maw595/1.jpg",
+      "assets/images/58maw595/2.jpg",
+      "assets/images/58maw595/3.jpg",
+      "assets/images/58maw595/4.jpg",
+      "assets/images/58maw595/energy.jpg"
     ],
     "productsFeaturesLi": [
       "58” screen (measured diagonally) with 16:9 aspect ratio",
@@ -130,10 +129,101 @@
     "whereToBuyLink": "https://www.walmart.com/ip/JVC-70-Class-4K-UHD-2160p-Roku-Smart-TV-LT-70MAW595/297896134",
     "topP": "Select Series combines Slim Bezel Design, Ultra High Definition and the Smart TVs Entertainment bringing an unique watching experience.",
     "topIcons": [
-      "assets/icons/icon1.png",
-      "assets/icons/selecticon.png",
-      "assets/icons/icon1.png",
-      "assets/icons/icon3.png"
+      "assets/images/icons/icon1.png",
+      "assets/images/icons/selectLogo.png",
+      "assets/images/icons/header-logo.png",
+      "assets/images/icons/rokuIcon.png"
+    ],
+    "topIconsText": [
+      "4K Resolution¹",
+      "Select Series",
+      "Bold Design",
+      "Thousands of Channels"
+    ],
+    "similarItems": [ 
+      ["65", "/LT-65MAW595"],
+      ["55", "/LT-55MAW595"],
+      ["58", "/LT-58MAW595"],
+      ["50", "/LT-50MAW595"]
+    ],
+    "lifestyleSection": {
+      "header1": "JVC 58” Select 4K UHD HDR Roku Smart LED TV",
+      "p1": "Start streaming your favorite shows, access your cable box or HD antenna, even fire up your gaming console - all from your home screen. With Featured Free on your home screen, you're one click away from hundreds of free movies, TV episodes, and live news from channels like The Roku Channel, ABC, CW and more. Easily search across top channels for results ranked by price. Use the free Roku mobile app for iOS or Android devices to search by voice, cast personal media or video, and control your TV. JVC 70 Inc Class 4K Roku TV (LT-70MAW795)",
+      "headerPicture1": "static/images/lifestyle/65/tv3.jpg",
+      "header2": "Roku Smart Features Stream free TV, live news sports, movies, and more.",
+      "headerPicture2": "assets/icons/Roku-home-page.jpg",
+      "header3": "Top reasons to choose JVC 70 Inch Series.",
+      "subHeader1": "Free Roku Mobile App",
+      "subHeaderP1": "Control your TV, search with your voice, use private listening, and more. iOS® and Android™.",
+      "subHeaderP2": "*Limitations apply to the mobile app. See support.roku.com for device compatibility information. (Optional add on, not required) Phone not included.",
+      "subHeader2": "Compatible with Amazon Alexa and Google Assistant",
+      "subHeader3": "Premium Picture",
+      "subHeader4": "Premium Refresh Rate",
+      "subHeader5": "High Dynamic Range"
+    },
+    "topReasonsToChooseLi": [
+      "70 Inch Screen with 16:9 aspect ration",
+      "3840 x 2160 Native Resolution 4k Performance",
+      "Slim Design Edge to Edge",
+      "High contrast picture stunning pictures",
+      "High Brightness Vivid and Brilliant Picture"
+    ],
+    "supportSection": {
+      "specs": {
+
+      },
+      "supportImage": true,
+      "qsg": {
+
+      },
+      "specSheet": {
+
+      },
+      "Manual": {
+
+      }
+    }
+  },
+
+
+  {
+    "productId": "LT-55MAW595",
+    "h1": "55” 4K UHD HDR Roku Smart LED TV",
+    "series": "Select",
+    "brand": "JVC",
+    "size": "55",
+    "model": "LT-55MAW595",
+    "productsURL": "/LT-55MAW595",
+    "imageUrl": "/assets/images/58maw595/1.jpg",
+    "productsIconImageUrl": "/assets/images/icons/roku.png",
+    "imageCarousel": [
+      "assets/images/58maw595/1.jpg",
+      "assets/images/58maw595/2.jpg",
+      "assets/images/58maw595/3.jpg",
+      "assets/images/58maw595/4.jpg",
+      "assets/images/58maw595/energy.jpg"
+    ],
+    "productsFeaturesLi": [
+      "58” screen (measured diagonally) with 16:9 aspect ratio",
+      "3840 x 2160 native resolution for Ultra High Definition (4K) performance",
+      "High brightness provides a vivid and brilliant picture",
+      "USB X 1 port for playing picture (JPEG) files and service",
+      "Over-the-Air ATSC/NTSC RF Input Support",
+      "3 HDMI® inputs for true digital connections",
+      "Full-function remote control",
+      "Built in 3D Comb Filter",
+      "Slim Bezel",
+      "Built-in Wi'Fi",
+      "HDR 10"
+    ],
+    "availableSizes": ["70", "58", "55", "50"],
+    "whereToBuyLink": "https://www.walmart.com/ip/JVC-70-Class-4K-UHD-2160p-Roku-Smart-TV-LT-70MAW595/297896134",
+    "topP": "Select Series combines Slim Bezel Design, Ultra High Definition and the Smart TVs Entertainment bringing an unique watching experience.",
+    "topIcons": [
+      "assets/images/icons/icon1.png",
+      "assets/images/icons/selectLogo.png",
+      "assets/images/icons/header-logo.png",
+      "assets/images/icons/rokuIcon.png"
     ],
     "topIconsText": [
       "4K Resolution¹",

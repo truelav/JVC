@@ -11,14 +11,15 @@ export const ProductBody = (props) => {
     const { item }  = props;
   
     return (
+
       <div className="productBodyContainer">
+
         <div className="productCrumbsContainer">
           <h3>
             <Link to="/shop">TVs</Link> {item.productId}
           </h3>  
         </div>
-
-
+        {/* TOP INFO SECTION */}
         <div className="productTopContainer">
           <div className="productTopImageContainer">
             <div className="productTopMainImageContainer">
@@ -71,6 +72,28 @@ export const ProductBody = (props) => {
         </div>   
         {/* TOP INFO SECTION END */}
 
+        {/* ICONS SECTION */}
+
+        <section className="productIconsSection">
+          <div className="productIconsContainer">
+            <div className="productIconsInnerContainer">
+              <img src={item.topIcons[0]} alt="" className="productIconImage"></img>
+              <h3>{item.topIconsText[0]}</h3>
+            </div>
+            <div className="productIconsInnerContainer">
+              <img src={item.topIcons[1]} alt="" className="productIconImage"></img>
+              <h3>{item.topIconsText[1]}</h3>
+            </div>
+            <div className="productIconsInnerContainer">
+              <img src={item.topIcons[2]} alt="" className="productIconImage"></img>
+              <h3>{item.topIconsText[2]}</h3>
+            </div>
+            <div className="productIconsInnerContainer">
+              <img src={item.topIcons[3]} alt="" className="productIconImage"></img>
+              <h3>{item.topIconsText[3]}</h3>
+            </div>
+          </div>
+        </section>
 
       </div>
     )
