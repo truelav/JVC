@@ -1,0 +1,37 @@
+@font-face {
+  font-family: graphik-Bold;
+  src: url(assets/fonts/Graphik-Bold.woff2);
+}
+
+@font-face {
+  font-family: graphik-Light;
+  src: url(assets/fonts/Graphik-Light.woff2);
+}
+
+@font-face {
+  font-family: graphik-SemiBold;
+  src: url(assets/fonts/Graphik-Semibold.woff2);
+}
+
+body {
+  font-family: 'graphik-Light', Helvetica,Arial,sans-serif;
+}
+
+a {
+  text-decoration: none;
+  font-weight: 600;
+  color: black;
+  font-family: 'graphik-SemiBold', Helvetica,Arial,sans-serif;
+}
+
+ul {
+  list-style-type: none;
+}
+
+li {
+
+}
+
+img {
+  width: 100%;
+}

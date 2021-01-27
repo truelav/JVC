@@ -1,0 +1,878 @@
+[
+  {
+    "id": 1,
+    "h1": "MINI SHOT 3 RETRO",
+    "h2": "Portable Wireless Instant Camera & Photo Printer",
+    "brand": "KODAK",
+    "category": "Cameras",
+    "model": "C300RY",
+    "color": "Yellow",
+    "imageUrl": "/assets/images/c300ry/1.jpg",
+    "productsURL": "/C300RY",
+    "sizeCategory": "3.0 x 3.0",
+    "availableColors": [
+      ["Yellow", "/C300RY", "/assets/images/c300ry/1.jpg"], 
+      ["White", "/C300RW", "/assets/images/c300rw/1.jpg"]
+    ],
+    "photoSize": "Photo Size : 3.0 x 3.0 Inches",
+    "availableSizes": [ 
+      ["2x3 Inches Camera", "/C210RY", "/assets/images/c210ry/1.jpg"],
+      ["3x3 Inches Camera", "/C300RY", "/assets/images/c300ry/1.jpg"]
+    ],
+    "technology": "Dye Sublimation Technology",
+    "dimensions": "Dimensions : 132 x 78 x 25 mm",
+    "initialCartridge": "Inititial Cartridge 8 Photos",
+    "conenction": "Smartphone Connection by Bluetooth",
+    "price": "$99.99",
+    "featuresP": [
+      "2-IN-1 DEVICE: Your Kodak Mini Shot 3 Retro allows you to shoot and print high-quality photos anytime and anywhere! After taking fabulous shots, you can print them directly from your Kodak Mini Shot 3 Retro OR connect with any mobile devices via Bluetooth and print straight from the photo gallery!",
+      "SUPERIOR PHOTO QUALITY: The Kodak Mini Shot uses 4Pass Technology that results in outstanding real photos. You can print HD 3 x 3-inch photos in layers of ribbon with a laminated finish. The photos are waterproof and finger-proof so they will last for many years.",
+      "TRY OUT THE KODAK APP: You can download the Kodak app for free and print anywhere and anytime! Decorate these instant photos with stickers, frames, and filters for a unique and fun effect. The app is compatible with iOS and Android devices.",
+      "PRACTICAL & VERSATILE: All it takes to enjoy fabulous printed photos is your mobile device and the Kodak 4Pass! Use this revolutionary device indoors, outdoors or in professional studios to convert your pics instantly.",
+      "SHARE AND LOVE THEM: These unique snapshots help you celebrate unique moments with your loved ones. Surprise your family and friends with a lovely scrapbook made with Kodak Mini Shot pics and live those fun times all over again."
+    ],
+    "insideBox": [
+      "Mini Shot 3 Camera",
+      "Cartridge (8 Photos)",
+      "User Manual",
+      "USB Cable"
+    ],
+    "featuresLi": [
+      "10MP camera with 1.7 Inches LCD Viewfinder",
+      "Photo borders with 5 filters",
+      "Smartphone remote shutter via Bluetooth connectivity",
+      "4Pass printing technology for Excellent photo quality",
+      "Print Size 3x3 Inches, KODAK instant Print 3x3 Cartridge"
+    ],
+    "lifestyleImages": ["/assets/images/c300ry/lifestyle1.jpg", "/assets/images/c300ry/lifestyle2.jpg", "/assets/images/c300ry/lifestyle3.jpg"],
+    "description": "Packed with features – powerful 10MP Camera delivers high quality pictures in seconds; just point, shoot & print photos in 2. 1” x 3. 4” credit-card sized. Bluetooth connectivity – send shots to your iOS/android smart device to view, edit; download the free Kodak app to crop photos, add fun filters, & More. You can also send any image on your phone to the Camera for printing",
+    "iconsUrl": [],
+    "mainImageUrl": [],
+    "buyNowUrl": "https://walmart.com"
+  },
+
+  {
+    "id": 2,
+    "h1": "MINI SHOT 3 RETRO",
+    "h2": "Portable Wireless Instant Camera & Photo Printer",
+    "brand": "KODAK",
+    "category": "Cameras",
+    "model": "C300RW",
+    "color": "White",
+    "imageUrl": "/assets/images/c300rw/1.jpg",
+    "productsURL": "/C300RW",
+    "availableColors": [
+      ["Yellow", "/C300RY", "/assets/images/c300ry/1.jpg"], 
+      ["White", "/C300RW", "/assets/images/c300rw/1.jpg"]
+    ],
+    "photoSize": "Photo Size : 3.0 x 3.0 Inches",
+    "availableSizes": [ 
+      ["2x3 Inches Camera", "/C210RY", "/assets/images/c210ry/1.jpg"],
+      ["3x3 Inches Camera", "/C300RY", "/assets/images/c300ry/1.jpg"]
+    ],
+    "technology": "Dye Sublimation Technology",
+    "dimensions": "Dimensions : 132 x 78 x 25 mm",
+    "initialCartridge": "Inititial Cartridge 8 Photos",
+    "conenction": "Smartphone Connection by Bluetooth",
+    "price": "$99.99",
+    "featuresP": [
+      "2-IN-1 DEVICE: Your Kodak Mini Shot 3 Retro allows you to shoot and print high-quality photos anytime and anywhere! After taking fabulous shots, you can print them directly from your Kodak Mini Shot 3 Retro OR connect with any mobile devices via Bluetooth and print straight from the photo gallery!",
+      "SUPERIOR PHOTO QUALITY: The Kodak Mini Shot uses 4Pass Technology that results in outstanding real photos. You can print HD 3 x 3-inch photos in layers of ribbon with a laminated finish. The photos are waterproof and finger-proof so they will last for many years.",
+      "TRY OUT THE KODAK APP: You can download the Kodak app for free and print anywhere and anytime! Decorate these instant photos with stickers, frames, and filters for a unique and fun effect. The app is compatible with iOS and Android devices.",
+      "PRACTICAL & VERSATILE: All it takes to enjoy fabulous printed photos is your mobile device and the Kodak 4Pass! Use this revolutionary device indoors, outdoors or in professional studios to convert your pics instantly.",
+      "SHARE AND LOVE THEM: These unique snapshots help you celebrate unique moments with your loved ones. Surprise your family and friends with a lovely scrapbook made with Kodak Mini Shot pics and live those fun times all over again."
+    ],
+    "insideBox": [
+      "Mini Shot 3 Camera",
+      "Cartridge (8 Photos)",
+      "User Manual",
+      "USB Cable"
+    ],
+    "featuresLi": [
+      "10MP camera with 1.7 Inches LCD Viewfinder",
+      "Photo borders with 5 filters",
+      "Smartphone remote shutter via Bluetooth connectivity",
+      "4Pass printing technology for Excellent photo quality",
+      "Print Size 3x3 Inches, KODAK instant Print 3x3 Cartridge"
+    ],
+    "lifestyleImages": ["/assets/images/c300ry/lifestyle1.jpg", "/assets/images/c300ry/lifestyle2.jpg", "/assets/images/c300ry/lifestyle3.jpg"],
+    "description": "Packed with features – powerful 10MP Camera delivers high quality pictures in seconds; just point, shoot & print photos in 2. 1” x 3. 4” credit-card sized. Bluetooth connectivity – send shots to your iOS/android smart device to view, edit; download the free Kodak app to crop photos, add fun filters, & More. You can also send any image on your phone to the Camera for printing",
+    "iconsUrl": [],
+    "mainImageUrl": [],
+    "buyNowUrl": "https://walmart.com"
+  },
+
+  {
+    "id": 3,
+    "h1": "MINI SHOT 3 SQUARE",
+    "h2": "Bluetooth Instant Camera & Printer with 4PASS Technology",
+    "brand": "KODAK",
+    "category": "Cameras",
+    "model": "P300GGY",
+    "color": "Yellow",
+    "productsURL": "/P300GGY",
+    "imageUrl": "/assets/images/p300ggy/1.jpg",
+    "sizeCategory": "3.0 x 3.0",
+    "availableColors": [
+      ["Yellow", "/P300GGY", "/assets/images/p300ggy/1.jpg"], 
+      ["White", "/P300GGW", "/assets/images/p300ggw/1.jpg"]
+    ],
+    "photoSize": "Photo Size : 3.0 x 3.0 Inches",
+    "availableSizes": [ 
+      ["2x3 Inches Camera", "/MS210Y", "/assets/images/ms210y/1.jpg"],
+      ["3x3 Inches Camera", "/P300GGY", "/assets/images/p300ggy/1.jpg"]
+    ],
+    "availableColor": ["Yellow", "White"],
+    "technology": "Dye Sublimation Technology",
+    "photoSize": "Photo Size : 3.0 x 3.0 inch",
+    "dimensions": "Dimensions : 13.4 x 10.4 x 3.0 cm",
+    "initialCartridge": "Inititial Cartridge 8 Photos",
+    "conenction": "Smartphone Connection by Bluetooth",
+    "price": "$99.99",
+    "featuresP": [
+      "[CAMERA + PRINTER COMBO] Take your Kodak Mini Shot Combo 3 Retro anywhere & anytime, SHOOT and PRINT. You can take photos and print directly from the Kodak Mini Shot Combo 3 Retro OR connect with any mobile devices via Bluetooth and print from the photo gallery.",
+      "[STELLAR PHOTO QUALITY] Kodak Mini Shot Combo's state of the art 4Pass Technology prints REAL photos INSTANTLY. Premium 3 x 3“ photo is printed in layers of ribbon + laminating process so it is fingerprint proof, water resistant, and quality will last very LONG compared to any photo printing technology.",
+      "[FREE KODAK MOBILE APP] Download the FREE Kodak app and print anywhere, anytime! Enjoy decorating your memories with stickers, frames, filters & many more with the Kodak app, compatible with iOS and Android.",
+      "[CONVENIENT] All it takes is your mobile device and Kodak 4Pass. Indoor or outdoor, wherever you are, the studio is in your hands! Convenient yet premium quality photos. Experience the NEW photo lifestyle.",
+      "[SHARE WITH YOUR LOVED ONES] What better way to celebrate with your loved ones than sharing your memories in high quality photos. Print your one of a kind photo that keeps your memories with your loved ones forever."
+    ],
+    "insideBox": [
+      "Instant Square Camera and Printer",
+      "Cartridge (8 Photos)",
+      "User Manual",
+      "USB Cable"
+    ],
+    "featuresLi": [
+      "Excellent image quality with wide color range",
+      "Image preservation overcoat layer",
+      "All-in-One Cartridge",
+      "4Pass printing technology for Excellent photo quality",
+      "Free App with featuers like Video Print, Image Search, SNS Photo"
+    ],
+    "description": "Packed with features – powerful 10MP Camera delivers high quality pictures in seconds; just point, shoot & print photos in 2. 1” x 3. 4” credit-card sized. Bluetooth connectivity – send shots to your iOS/android smart device to view, edit; download the free Kodak app to crop photos, add fun filters, & More. You can also send any image on your phone to the Camera for printing",
+    "lifestyleImages": ["/assets/images/p300ggy/lifestyle1.jpg", "/assets/images/p300ggy/lifestyle2.jpg", "/assets/images/p300ggy/lifestyle3.jpg"],
+    "iconsUrl": [],
+    "mainImageUrl": [],
+    "buyNowUrl": "https://walmart.com"
+  },
+
+  {
+    "id": 4,
+    "h1": "MINI SHOT 3 SQUARE",
+    "h2": "Bluetooth Instant Camera & Printer with 4PASS Technology",
+    "brand": "KODAK",
+    "category": "Cameras",
+    "model": "P300GGW",
+    "color": "White",
+    "productsURL": "/P300GGW",
+    "imageUrl": "/assets/images/p300ggw/1.jpg",
+    "availableColors": [
+      ["Yellow", "/P300GGY", "/assets/images/p300ggy/1.jpg"], 
+      ["White", "/P300GGW", "/assets/images/p300ggw/1.jpg"]
+    ],
+    "photoSize": "Photo Size : 3.0 x 3.0 Inches",
+    "availableSizes": [ 
+      ["2x3 Inches Camera", "/MS210Y", "/assets/images/ms210y/1.jpg"],
+      ["3x3 Inches Camera", "/P300GGY", "/assets/images/p300ggy/1.jpg"]
+    ],
+    "sizeCategory": "3.0 x 3.0",
+    "availableColor": ["Yellow", "White"],
+    "technology": "Dye Sublimation Technology",
+    "photoSize": "Photo Size : 2.1 x 3.4 inch",
+    "dimensions": "Dimensions : 13.4 x 10.4 x 3.0 cm",
+    "initialCartridge": "Inititial Cartridge 8 Photos",
+    "conenction": "Smartphone Connection by Bluetooth",
+    "price": "$99.99",
+    "featuresP": [
+      "[CAMERA + PRINTER COMBO] Take your Kodak Mini Shot Combo 3 Retro anywhere & anytime, SHOOT and PRINT. You can take photos and print directly from the Kodak Mini Shot Combo 3 Retro OR connect with any mobile devices via Bluetooth and print from the photo gallery.",
+      "[STELLAR PHOTO QUALITY] Kodak Mini Shot Combo's state of the art 4Pass Technology prints REAL photos INSTANTLY. Premium 3 x 3“ photo is printed in layers of ribbon + laminating process so it is fingerprint proof, water resistant, and quality will last very LONG compared to any photo printing technology.",
+      "[FREE KODAK MOBILE APP] Download the FREE Kodak app and print anywhere, anytime! Enjoy decorating your memories with stickers, frames, filters & many more with the Kodak app, compatible with iOS and Android.",
+      "[CONVENIENT] All it takes is your mobile device and Kodak 4Pass. Indoor or outdoor, wherever you are, the studio is in your hands! Convenient yet premium quality photos. Experience the NEW photo lifestyle.",
+      "[SHARE WITH YOUR LOVED ONES] What better way to celebrate with your loved ones than sharing your memories in high quality photos. Print your one of a kind photo that keeps your memories with your loved ones forever."
+    ],
+    "insideBox": [
+      "Instant Square Printer",
+      "Cartridge (8 Photos)",
+      "User Manual",
+      "USB Cable"
+    ],
+    "featuresLi": [
+      "Excellent image quality with wide color range",
+      "Image preservation overcoat layer",
+      "All-in-One Cartridge",
+      "4Pass printing technology for Excellent photo quality",
+      "Free App with featuers like Video Print, Image Search, SNS Photo"
+    ],
+    "description": "Packed with features – powerful 10MP Camera delivers high quality pictures in seconds; just point, shoot & print photos in 2. 1” x 3. 4” credit-card sized. Bluetooth connectivity – send shots to your iOS/android smart device to view, edit; download the free Kodak app to crop photos, add fun filters, & More. You can also send any image on your phone to the Camera for printing",
+    "lifestyleImages": ["/assets/images/p300ggy/lifestyle1.jpg", "/assets/images/p300ggy/lifestyle2.jpg", "/assets/images/p300ggy/lifestyle3.jpg"],
+    "iconsUrl": [],
+    "mainImageUrl": [],
+    "buyNowUrl": "https://walmart.com"
+  },
+
+  {
+    "id": 5,
+    "h1": "KODAK MINI 3",
+    "h2": "Retro Portable Photo Printer, Real Photo: (2.1x3.4), 4Pass Technology & Laminating Process.",
+    "brand": "KODAK",
+    "productName": "Instant Printer",
+    "category": "Printers",
+    "model": "C300Y",
+    "color": "Yellow",
+    "productsURL": "/C300Y",
+    "sizeCategory": "2.1 x 3.4",
+    "availableColor": ["Yellow", "White"],
+    "technology": "Dye Sublimation Technology",
+    "photoSize": "Photo Size : 2.1 x 3.4 inch",
+    "availableColors": [
+      ["Yellow", "/c300y", "/assets/images/c300y/1.jpg"], 
+      ["White", "/c300w", "/assets/images/c300w/1.jpg"]
+    ],
+    "availableSizes": [ 
+      ["2x3 Inches Printer", "/C300Y", "/assets/images/c300y/1.jpg"]
+    ],
+    "dimensions": "Dimensions : 13.4 x 10.4 x 3.0 cm",
+    "initialCartridge": "Inititial Cartridge 8 Photos",
+    "conenction": "Smartphone Connection by Bluetooth",
+    "price": "$99.99",
+    "featuresP": [
+      "TIMELESS MEMORIES: Connect your Kodak Mini 3 Square Retro to any mobile device and get your favorite pics in print wherever you are! Make sure to always keep your favorite snapshots so you can revisit them later on. It uses a stable wireless connection that can be easily paired to your device.",
+      "STELLAR PHOTO QUALITY: The Kodak 4Pass Technology allows you to print high-end photos instantly. You will get premium 3 x 3-inch photos printed in layers of ribbon with a laminating process that makes them fingerprint-proof and waterproof.",
+      "ENJOY THE KODAK MOBILE APP: Printing photos is easy with the free Kodak app. Connect it to your Android or iOS device and enjoy printing your favorite snaps anywhere and anytime.",
+      "PRACTICAL AND EASY: To get flawless printed photos, all you need is your Kodak Mini 3 Square Retro and a mobile device.",
+      "FOR YOUR LOVED ONES: Celebrate the most beautiful moments in your life with precious printed photos that will help everyone remember those dear times. Use the instant printer to make beautiful scrapbooks that everyone will enjoy.",
+      "Take your Kodak Mini Shot Combo 3 Retro anywhere & anytime, SHOOT and PRINT. You can take photos and print directly from the Kodak Mini Shot Combo 3 Retro OR connect with any mobile devices via Bluetooth and print from the photo gallery!"
+    ],
+    "insideBox": [
+      "Instant Square Printer",
+      "Cartridge (8 Photos)",
+      "User Manual",
+      "USB Cable"
+    ],
+    "featuresLi": [
+      "Excellent image quality with wide color range",
+      "Image preservation overcoat layer",
+      "All-in-One Cartridge",
+      "4Pass printing technology for Excellent photo quality",
+      "Free App with featuers like Video Print, Image Search, SNS Photo"
+    ],
+    "imageUrl": "/assets/images/c300y/1.jpg",
+    "description": "Packed with features – powerful 10MP Camera delivers high quality pictures in seconds; just point, shoot & print photos in 2. 1” x 3. 4” credit-card sized. Bluetooth connectivity – send shots to your iOS/android smart device to view, edit; download the free Kodak app to crop photos, add fun filters, & More. You can also send any image on your phone to the Camera for printing",
+    "lifestyleImages": ["/assets/images/c300y/lifestyle1.jpg", "/assets/images/c300y/lifestyle2.jpg", "/assets/images/p300ggy/lifestyle3.jpg"],
+    "iconsUrl": [],
+    "mainImageUrl": [],
+    "buyNowUrl": "https://walmart.com"
+  },
+
+  {
+    "id": 6,
+    "h1": "KODAK MINI 3",
+    "h2": "Retro Portable Photo Printer, Real Photo: (2.1x3.4), 4Pass Technology & Laminating Process.",
+    "brand": "KODAK",
+    "productName": "Instant Printer",
+    "category": "Printers",
+    "model": "C300W",
+    "color": "Yellow",
+    "productsURL": "/C300W",
+    "sizeCategory": "2.1 x 3.4",
+    "availableColor": ["Yellow", "White"],
+    "technology": "Dye Sublimation Technology",
+    "photoSize": "Photo Size : 2.1 x 3.4 inch",
+    "availableColors": [
+      ["Yellow", "/c300y", "/assets/images/c300y/1.jpg"], 
+      ["White", "/c300w", "/assets/images/c300w/1.jpg"]
+    ],
+    "availableSizes": [ 
+      ["2x3 Inches Printer", "/C300Y", "/assets/images/c300y/1.jpg"]
+    ],
+    "dimensions": "Dimensions : 13.4 x 10.4 x 3.0 cm",
+    "initialCartridge": "Inititial Cartridge 8 Photos",
+    "conenction": "Smartphone Connection by Bluetooth",
+    "price": "$99.99",
+    "featuresP": [
+      "TIMELESS MEMORIES: Connect your Kodak Mini 3 Square Retro to any mobile device and get your favorite pics in print wherever you are! Make sure to always keep your favorite snapshots so you can revisit them later on. It uses a stable wireless connection that can be easily paired to your device.",
+      "STELLAR PHOTO QUALITY: The Kodak 4Pass Technology allows you to print high-end photos instantly. You will get premium 3 x 3-inch photos printed in layers of ribbon with a laminating process that makes them fingerprint-proof and waterproof.",
+      "ENJOY THE KODAK MOBILE APP: Printing photos is easy with the free Kodak app. Connect it to your Android or iOS device and enjoy printing your favorite snaps anywhere and anytime.",
+      "PRACTICAL AND EASY: To get flawless printed photos, all you need is your Kodak Mini 3 Square Retro and a mobile device.",
+      "FOR YOUR LOVED ONES: Celebrate the most beautiful moments in your life with precious printed photos that will help everyone remember those dear times. Use the instant printer to make beautiful scrapbooks that everyone will enjoy.",
+      "Take your Kodak Mini Shot Combo 3 Retro anywhere & anytime, SHOOT and PRINT. You can take photos and print directly from the Kodak Mini Shot Combo 3 Retro OR connect with any mobile devices via Bluetooth and print from the photo gallery!"
+    ],
+    "insideBox": [
+      "Instant Square Printer",
+      "Cartridge (8 Photos)",
+      "User Manual",
+      "USB Cable"
+    ],
+    "featuresLi": [
+      "Excellent image quality with wide color range",
+      "Image preservation overcoat layer",
+      "All-in-One Cartridge",
+      "4Pass printing technology for Excellent photo quality",
+      "Free App with featuers like Video Print, Image Search, SNS Photo"
+    ],
+    "imageUrl": "/assets/images/c300w/1.jpg",
+    "description": "Packed with features – powerful 10MP Camera delivers high quality pictures in seconds; just point, shoot & print photos in 2. 1” x 3. 4” credit-card sized. Bluetooth connectivity – send shots to your iOS/android smart device to view, edit; download the free Kodak app to crop photos, add fun filters, & More. You can also send any image on your phone to the Camera for printing",
+    "lifestyleImages": ["/assets/images/c300y/lifestyle1.jpg", "/assets/images/c300y/lifestyle2.jpg", "/assets/images/p300ggy/lifestyle3.jpg"],
+    "iconsUrl": [],
+    "mainImageUrl": [],
+    "buyNowUrl": "https://walmart.com"
+  },
+  
+  {
+    "id": 7,
+    "h1": "MINI SHOT 2 RETRO",
+    "h2": "Portable Wireless Instant Camera & Photo Printer",
+    "brand": "KODAK",
+    "category": "Cameras",
+    "model": "C210RY",
+    "color": "Yellow",
+    "sizeCategory": "2.1 x 3.4",
+    "availableColor": ["Yellow", "White"],
+    "technology": "Dye Sublimation Technology",
+    "photoSize": "Photo Size : 2.1 x 3.4 inch",
+    "availableColors": [
+      ["Yellow", "/C210RY", "/assets/images/c210ry/1.jpg"], 
+      ["White", "/C210RW", "/assets/images/c210rw/1.jpg"]
+    ],
+    "availableSizes": [ 
+      ["2x3 Inches Camera", "/C210RW", "/assets/images/c210ry/1.jpg"],
+      ["3x3 Inches Camera", "/C300RY", "/assets/images/c300ry/1.jpg"]
+    ],
+    "dimensions": "Dimensions : 132 x 78 x 25 mm",
+    "initialCartridge": "Inititial Cartridge 8 Photos",
+    "conenction": "Smartphone Connection by Bluetooth",
+    "price": "$99.99",
+    "featuresP": [
+      "CAMERA & PRINTER: Our Kodak Mini Shot 2 Retro allows you to shoot and print snapshots anytime and anywhere! Print them directly from the Kodak Mini Shot 2 Retro or connect it to any mobile device via Bluetooth to print from the photo gallery quickly and effortlessly.",
+      "EXCLUSIVE DESIGN: What does it take to shoot and print amazing pics? Your mobile devices and the Kodak 4Pass! Use this amazing gadget indoors, outdoors, in professional studios or at home! It has a unique retro design that you will fall in love with instantly. The Mini Shot 2 Retro camera feels exclusive and luxurious, so you can feel like a real photographer from the 60s.",
+      "PREMIUM QUALITY: Kodak Mini Shot uses 4Pass Technology to print flawless photos instantly. Each photo is printed in layers of ribbon with a laminating process so it’s fingerprint proof and water-resistant for long-lasting quality.",
+      "ENJOY THE KODAK APP: We have developed a free Kodak app that allows you to print anywhere and anytime. You can enjoy decorating real photos with stickers, frames and filters with a simple and intuitive app that is compatible with iOS and Android devices.",
+      "THE RIGHT CHOICE FOR YOUR LOVES ONES: Share outstanding memories with your family and friends by using these high-quality photos! Print your favorite pics and keep those images intact forever.",
+      "You can print two types of photos with the same photo paper. Simply choose between border or borderless before printing. Print your photo in less than 50 seconds. Inside or outside, wherever you are is the studio Convenient and high quality prints. Experience the new photo lifestyle!"
+    ],
+    "insideBox": [
+      "Mini Shot 3 Camera",
+      "Cartridge (8 Photos)",
+      "User Manual",
+      "USB Cable"
+    ],
+    "featuresLi": [
+      "10MP camera with 1.7 Inches LCD Viewfinder",
+      "Photo borders with 5 filters",
+      "Smartphone remote shutter via Bluetooth connectivity",
+      "4Pass printing technology for Excellent photo quality",
+      "Print Size 2.1x3.4 Inches, KODAK instant Print 2.1x3.4 Cartridge"
+    ],
+    "imageUrl": "/assets/images/c210ry/1.jpg",
+    "description": "Packed with features – powerful 10MP Camera delivers high quality pictures in seconds; just point, shoot & print photos in 2. 1” x 3. 4” credit-card sized. Bluetooth connectivity – send shots to your iOS/android smart device to view, edit; download the free Kodak app to crop photos, add fun filters, & More. You can also send any image on your phone to the Camera for printing",
+    "lifestyleImages": ["/assets/images/c210ry/lifestyle1.jpg", "/assets/images/c210ry/lifestyle2.jpg", "/assets/images/c210ry/lifestyle3.jpg"],
+    "iconsUrl": [],
+    "mainImageUrl": [],
+    "buyNowUrl": "https://walmart.com",
+    "productsURL": "/C210RY"
+  },
+
+  {
+    "id": 8,
+    "h1": "MINI SHOT 2 RETRO",
+    "h2": "Portable Wireless Instant Camera & Photo Printer",
+    "brand": "KODAK",
+    "productName": "Instant Camera 2 in 1",
+    "category": "Cameras",
+    "model": "C210RW",
+    "color": "White",
+    "sizeCategory": "2.1 x 3.4",
+    "availableColor": ["Yellow", "White"],
+    "technology": "Dye Sublimation Technology",
+    "photoSize": "Photo Size : 2.1 x 3.4 inch",
+    "availableColors": [
+      ["Yellow", "/C210RY", "/assets/images/c210ry/1.jpg"], 
+      ["White", "/C210RW", "/assets/images/c210rw/1.jpg"]
+    ],
+    "availableSizes": [ 
+      ["2x3 Inches Camera", "/C210RW", "/assets/images/c210ry/1.jpg"],
+      ["3x3 Inches Camera", "/C300RY", "/assets/images/c300ry/1.jpg"]
+    ],
+    "dimensions": "Dimensions : 132 x 78 x 25 mm",
+    "initialCartridge": "Inititial Cartridge 8 Photos",
+    "conenction": "Smartphone Connection by Bluetooth",
+    "price": "$99.99",
+    "featuresP": [
+      "2-IN-1 DEVICE: Your Kodak Mini Shot 3 Retro allows you to shoot and print high-quality photos anytime and anywhere! After taking fabulous shots, you can print them directly from your Kodak Mini Shot 3 Retro OR connect with any mobile devices via Bluetooth and print straight from the photo gallery!",
+      "SUPERIOR PHOTO QUALITY: The Kodak Mini Shot uses 4Pass Technology that results in outstanding real photos. You can print HD 3 x 3-inch photos in layers of ribbon with a laminated finish. The photos are waterproof and finger-proof so they will last for many years.",
+      "TRY OUT THE KODAK APP: You can download the Kodak app for free and print anywhere and anytime! Decorate these instant photos with stickers, frames, and filters for a unique and fun effect. The app is compatible with iOS and Android devices.",
+      "PRACTICAL & VERSATILE: All it takes to enjoy fabulous printed photos is your mobile device and the Kodak 4Pass! Use this revolutionary device indoors, outdoors or in professional studios to convert your pics instantly.",
+      "SHARE AND LOVE THEM: These unique snapshots help you celebrate unique moments with your loved ones. Surprise your family and friends with a lovely scrapbook made with Kodak Mini Shot pics and live those fun times all over again."
+    ],
+    "insideBox": [
+      "Mini Shot 3 Camera",
+      "Cartridge (8 Photos)",
+      "User Manual",
+      "USB Cable"
+    ],
+    "featuresLi": [
+      "10MP camera with 1.7 Inches LCD Viewfinder",
+      "Photo borders with 5 filters",
+      "Smartphone remote shutter via Bluetooth connectivity",
+      "4Pass printing technology for Excellent photo quality",
+      "Print Size 2.1x3.4 Inches, KODAK instant Print 2.1x3.4 Cartridge"
+    ],
+    "imageUrl": "/assets/images/c210rw/1.jpg",
+    "lifestyleImages": ["/assets/images/c210ry/lifestyle1.jpg", "/assets/images/c210ry/lifestyle2.jpg", "/assets/images/c210ry/lifestyle3.jpg"],
+    "description": "Packed with features – powerful 10MP Camera delivers high quality pictures in seconds; just point, shoot & print photos in 2. 1” x 3. 4” credit-card sized. Bluetooth connectivity – send shots to your iOS/android smart device to view, edit; download the free Kodak app to crop photos, add fun filters, & More. You can also send any image on your phone to the Camera for printing",
+    "iconsUrl": [],
+    "mainImageUrl": [],
+    "buyNowUrl": "https://walmart.com",
+    "productsURL": "/C210RW"
+  },
+
+  {
+    "id": 9,
+    "h1": "KODAK MINI Shot",
+    "h2": "Wireless Instant Digital Camera & Social Media Portable Photo Printer",
+    "brand": "KODAK",
+    "productName": "Instant Printer",
+    "category": "Cameras",
+    "model": "MS210Y",
+    "sizeCategory": "2.1 x 3.4",
+    "color": "Yellow",
+    "availableColor": ["Yellow", "White", "Black"],
+    "technology": "Dye Sublimation Technology",
+    "photoSize": "Photo Size : 2.1 x 3.4 inch",
+    "availableColors": [
+      ["Yellow", "/MS210Y", "/assets/images/ms210y/1.jpg"], 
+      ["White", "/MS210W", "/assets/images/ms210w/1.jpg"],
+      ["Black", "/MS210B", "/assets/images/ms210b/1.jpg"]
+    ],
+    "availableSizes": [ 
+      ["2x3 Inches Camera", "/MS210Y", "/assets/images/ms210y/1.jpg"],
+      ["3x3 Inches Camera", "/P300GGY", "/assets/images/p300ggy/1.jpg"]
+    ],
+    "dimensions": "Dimensions : 13.4 x 10.4 x 3.0 cm",
+    "initialCartridge": "Inititial Cartridge 8 Photos",
+    "conenction": "Smartphone Connection by Bluetooth",
+    "price": "$99.99",
+    "featuresP": [
+      "Packed with features – powerful 10MP Camera delivers high quality pictures in seconds; just point, shoot & print photos in 2. 1” x 3. 4” credit-card sized.",
+      "Bluetooth connectivity – send shots to your iOS/android smart device to view, edit; download the free Kodak app to crop photos, add fun filters, & More. You can also send any image on your phone to the Camera for printing.",
+      "Portable but powerful –small design is perfect for toting in your pocket, purse or backpack; Pro features include 1. 7” LCD viewfinder, auto focus, exposure, white balance & gamma correction.",
+      "Capture your creativity – endless editing capabilities let you explore & share YOUR passion in person, via text & Social media; enjoy normal & border printing, ID photo, video & SNS printing & beyond.",
+      "Stunning color shots – all-in-one ink & paper cartridge utilizes 4pass Dye- sublimation technology, Rendering every image in beautiful, vivid detail; Great for printing selfies, portraits or landscapes."
+    ],
+    "insideBox": [
+      "Instant Camera Printer",
+      "Cartridge (8 Photos)",
+      "User Manual",
+      "USB Cable"
+    ],
+    "featuresLi": [
+      "Excellent image quality with wide color range",
+      "Image preservation overcoat layer",
+      "All-in-One Cartridge",
+      "4Pass printing technology for Excellent photo quality",
+      "Free App with featuers like Video Print, Image Search, SNS Photo"
+    ],
+    "imageUrl": "/assets/images/ms210y/1.jpg",
+    "lifestyleImages": ["/assets/images/ms210y/lifestyle1.jpg", "/assets/images/ms210y/lifestyle2.jpg", "/assets/images/ms210y/lifestyle3.jpg"],
+    "description": "Packed with features – powerful 10MP Camera delivers high quality pictures in seconds; just point, shoot & print photos in 2. 1” x 3. 4” credit-card sized. Bluetooth connectivity – send shots to your iOS/android smart device to view, edit; download the free Kodak app to crop photos, add fun filters, & More. You can also send any image on your phone to the Camera for printing",
+    "iconsUrl": [],
+    "mainImageUrl": [],
+    "buyNowUrl": "https://walmart.com",
+    "productsURL": "/MS210Y"
+  },
+
+  {
+    "id": 10,
+    "h1": "KODAK MINI Shot",
+    "h2": "Wireless Instant Digital Camera & Social Media Portable Photo Printer",
+    "brand": "KODAK",
+    "productName": "Instant Printer",
+    "category": "Cameras",
+    "model": "MS210W",
+    "sizeCategory": "2.1 x 3.4",
+    "color": "White",
+    "availableColor": ["Yellow", "White", "Black"],
+    "technology": "Dye Sublimation Technology",
+    "photoSize": "Photo Size : 2.1 x 3.4 inch",
+    "availableColors": [
+      ["Yellow", "/MS210Y", "/assets/images/ms210y/1.jpg"], 
+      ["White", "/MS210W", "/assets/images/ms210w/1.jpg"],
+      ["Black", "/MS210B", "/assets/images/ms210b/1.jpg"]
+    ],
+    "availableSizes": [ 
+      ["2x3 Inches Camera", "/MS210Y", "/assets/images/ms210y/1.jpg"],
+      ["3x3 Inches Camera", "/P300GGY", "/assets/images/p300ggy/1.jpg"]
+    ],
+    "dimensions": "Dimensions : 13.4 x 10.4 x 3.0 cm",
+    "initialCartridge": "Inititial Cartridge 8 Photos",
+    "conenction": "Smartphone Connection by Bluetooth",
+    "price": "$99.99",
+    "featuresP": [
+      "Packed with features – powerful 10MP Camera delivers high quality pictures in seconds; just point, shoot & print photos in 2. 1” x 3. 4” credit-card sized.",
+      "Bluetooth connectivity – send shots to your iOS/android smart device to view, edit; download the free Kodak app to crop photos, add fun filters, & More. You can also send any image on your phone to the Camera for printing.",
+      "Portable but powerful –small design is perfect for toting in your pocket, purse or backpack; Pro features include 1. 7” LCD viewfinder, auto focus, exposure, white balance & gamma correction.",
+      "Capture your creativity – endless editing capabilities let you explore & share YOUR passion in person, via text & Social media; enjoy normal & border printing, ID photo, video & SNS printing & beyond.",
+      "Stunning color shots – all-in-one ink & paper cartridge utilizes 4pass Dye- sublimation technology, Rendering every image in beautiful, vivid detail; Great for printing selfies, portraits or landscapes."
+    ],
+    "insideBox": [
+      "Instant Camera Printer",
+      "Cartridge (8 Photos)",
+      "User Manual",
+      "USB Cable"
+    ],
+    "featuresLi": [
+      "Excellent image quality with wide color range",
+      "Image preservation overcoat layer",
+      "All-in-One Cartridge",
+      "4Pass printing technology for Excellent photo quality",
+      "Free App with featuers like Video Print, Image Search, SNS Photo"
+    ],
+    "imageUrl": "/assets/images/ms210w/1.jpg",
+    "lifestyleImages": ["/assets/images/ms210y/lifestyle1.jpg", "/assets/images/ms210y/lifestyle2.jpg", "/assets/images/ms210y/lifestyle3.jpg"],
+    "description": "Packed with features – powerful 10MP Camera delivers high quality pictures in seconds; just point, shoot & print photos in 2. 1” x 3. 4” credit-card sized. Bluetooth connectivity – send shots to your iOS/android smart device to view, edit; download the free Kodak app to crop photos, add fun filters, & More. You can also send any image on your phone to the Camera for printing",
+    "iconsUrl": [],
+    "mainImageUrl": [],
+    "buyNowUrl": "https://walmart.com",
+    "productsURL": "/MS210W"
+  },
+
+  {
+    "id": 11,
+    "h1": "KODAK MINI Shot",
+    "h2": "Wireless Instant Digital Camera & Social Media Portable Photo Printer",
+    "brand": "KODAK",
+    "productName": "Instant Printer",
+    "category": "Cameras",
+    "model": "MS210B",
+    "sizeCategory": "2.1 x 3.4",
+    "color": "Black",
+    "availableColor": ["Yellow", "White", "Black"],
+    "technology": "Dye Sublimation Technology",
+    "photoSize": "Photo Size : 2.1 x 3.4 inch",
+    "availableColors": [
+      ["Yellow", "/MS210Y", "/assets/images/ms210y/1.jpg"], 
+      ["White", "/MS210W", "/assets/images/ms210w/1.jpg"],
+      ["Black", "/MS210B", "/assets/images/ms210b/1.jpg"]
+    ],
+    "availableSizes": [ 
+      ["2x3 Inches Camera", "/MS210Y", "/assets/images/ms210y/1.jpg"],
+      ["3x3 Inches Camera", "/P300GGY", "/assets/images/p300ggy/1.jpg"]
+    ],
+    "dimensions": "Dimensions : 13.4 x 10.4 x 3.0 cm",
+    "initialCartridge": "Inititial Cartridge 8 Photos",
+    "conenction": "Smartphone Connection by Bluetooth",
+    "price": "$99.99",
+    "featuresP": [
+      "Packed with features – powerful 10MP Camera delivers high quality pictures in seconds; just point, shoot & print photos in 2. 1” x 3. 4” credit-card sized.",
+      "Bluetooth connectivity – send shots to your iOS/android smart device to view, edit; download the free Kodak app to crop photos, add fun filters, & More. You can also send any image on your phone to the Camera for printing.",
+      "Portable but powerful –small design is perfect for toting in your pocket, purse or backpack; Pro features include 1. 7” LCD viewfinder, auto focus, exposure, white balance & gamma correction.",
+      "Capture your creativity – endless editing capabilities let you explore & share YOUR passion in person, via text & Social media; enjoy normal & border printing, ID photo, video & SNS printing & beyond.",
+      "Stunning color shots – all-in-one ink & paper cartridge utilizes 4pass Dye- sublimation technology, Rendering every image in beautiful, vivid detail; Great for printing selfies, portraits or landscapes."
+    ],
+    "insideBox": [
+      "Instant Camera Printer",
+      "Cartridge (8 Photos)",
+      "User Manual",
+      "USB Cable"
+    ],
+    "featuresLi": [
+      "Excellent image quality with wide color range",
+      "Image preservation overcoat layer",
+      "All-in-One Cartridge",
+      "4Pass printing technology for Excellent photo quality",
+      "Free App with featuers like Video Print, Image Search, SNS Photo"
+    ],
+    "imageUrl": "/assets/images/ms210b/1.jpg",
+    "lifestyleImages": ["/assets/images/ms210y/lifestyle1.jpg", "/assets/images/ms210y/lifestyle2.jpg", "/assets/images/ms210y/lifestyle3.jpg"],
+    "description": "Packed with features – powerful 10MP Camera delivers high quality pictures in seconds; just point, shoot & print photos in 2. 1” x 3. 4” credit-card sized. Bluetooth connectivity – send shots to your iOS/android smart device to view, edit; download the free Kodak app to crop photos, add fun filters, & More. You can also send any image on your phone to the Camera for printing",
+    "iconsUrl": [],
+    "mainImageUrl": [],
+    "buyNowUrl": "https://walmart.com",
+    "productsURL": "/MS210B"
+  },
+
+
+  {
+    "id": 12,
+    "h1": "Dock Plus & Dock Photo Printer Cartridge",
+    "h2": "Cartridge Refill & Photo Paper - 40 Pack",
+    "brand": "KODAK",
+    "model": "PHC40",
+    "category": "Paper",
+    "sizeCategory": "4.125 x 5.875 Inches",
+    "color": "Black",
+    "availableColors": [
+      ["Black", "/PHC40", "/assets/images/phc40/1.jpg"]
+    ], 
+    "availableSizes": [
+      ["PHC40", "/PHC40", "/assets/images/phc40/1.jpg"],
+      ["PHC80", "/PHC80", "/assets/images/phc80/1.jpg"],
+      ["PHC120", "/PHC120", "/assets/images/phc120/1.jpg"]
+    ],
+    "technology": "Dye Sublimation Technology",
+    "photoSize": "Photo Size : 2.1 x 3.4 inch",
+    "dimensions": "Dimensions : 13.4 x 10.4 x 3.0 cm",
+    "initialCartridge": "Inititial Cartridge 8 Photos",
+    "conenction": "Smartphone Connection by Bluetooth",
+    "price": "$99.99",
+    "featuresP": [
+      "BOLD, VIBRANT COLOR – Combination ink cartridge prints high quality full color photographs; Compatible with Kodak Dock Printer.",
+      "UNIQUE D2T2 INNOVATION – Advanced Dye Diffusion transfer technology applies colors quickly & Evenly; Maximum gradation reduces blurring & distortion.",
+      "LONG LASTING PRINTS – Unique 4th layer overcoat laminates paper to preserve image quality; Creates humidity & fingerprint resistant finish that won’t fade.",
+      "EASY MAINTENANCE – Simple cartridge refills are effortless to remove & replace; Pull with two fingers to eject, then insert new cartridge to resume printing.",
+      "MULTIPLE REFILL PACKS – Choose from photo increments of 40, 80, or 120; Great for printing portrait photos, landscapes, family pictures, greeting cards & more."
+    ],
+    "insideBox": [
+      "Dock Photo Printer Cartridge",
+      "Cartridge (40 Pack)"
+    ],
+    "featuresLi": [
+      "Excellent image quality with wide color range",
+      "Image preservation overcoat layer",
+      "All-in-One Cartridge",
+      "4Pass printing technology for Excellent photo quality",
+      "Free App with featuers like Video Print, Image Search, SNS Photo"
+    ],
+    "imageUrl": "/assets/images/phc40/1.jpg",
+    "lifestyleImages": ["/assets/images/phc40/lifestyle1.jpg", "/assets/images/phc40/lifestyle2.jpg", "/assets/images/phc40/lifestyle3.jpg"],
+    "description": "Packed with features – powerful 10MP Camera delivers high quality pictures in seconds; just point, shoot & print photos in 2. 1” x 3. 4” credit-card sized. Bluetooth connectivity – send shots to your iOS/android smart device to view, edit; download the free Kodak app to crop photos, add fun filters, & More. You can also send any image on your phone to the Camera for printing",
+    "iconsUrl": [],
+    "mainImageUrl": [],
+    "buyNowUrl": "https://walmart.com",
+    "productsURL": "/PHC40"
+  },
+
+  {
+    "id": 13,
+    "h1": "Dock Plus & Dock Photo Printer Cartridge",
+    "h2": "Cartridge Refill & Photo Paper - 40 Pack",
+    "brand": "KODAK",
+    "model": "PHC80",
+    "category": "Paper",
+    "sizeCategory": "4.125 x 5.875 Inches",
+    "color": "Black",
+    "availableColors": [
+      ["Black", "/PHC80", "/assets/images/phc80/1.jpg"]
+    ], 
+    "availableSizes": [
+      ["PHC40", "/PHC40", "/assets/images/phc40/1.jpg"],
+      ["PHC80", "/PHC80", "/assets/images/phc80/1.jpg"],
+      ["PHC120", "/PHC120", "/assets/images/phc120/1.jpg"]
+    ],
+    "technology": "Dye Sublimation Technology",
+    "photoSize": "Photo Size : 2.1 x 3.4 inch",
+    "dimensions": "Dimensions : 13.4 x 10.4 x 3.0 cm",
+    "initialCartridge": "Inititial Cartridge 8 Photos",
+    "conenction": "Smartphone Connection by Bluetooth",
+    "price": "$99.99",
+    "featuresP": [
+      "BOLD, VIBRANT COLOR – Combination ink cartridge prints high quality full color photographs; Compatible with Kodak Dock Printer.",
+      "UNIQUE D2T2 INNOVATION – Advanced Dye Diffusion transfer technology applies colors quickly & Evenly; Maximum gradation reduces blurring & distortion.",
+      "LONG LASTING PRINTS – Unique 4th layer overcoat laminates paper to preserve image quality; Creates humidity & fingerprint resistant finish that won’t fade.",
+      "EASY MAINTENANCE – Simple cartridge refills are effortless to remove & replace; Pull with two fingers to eject, then insert new cartridge to resume printing.",
+      "MULTIPLE REFILL PACKS – Choose from photo increments of 40, 80, or 120; Great for printing portrait photos, landscapes, family pictures, greeting cards & more."
+    ],
+    "insideBox": [
+      "Dock Photo Printer Cartridge",
+      "Cartridge (80 Pack)"
+    ],
+    "featuresLi": [
+      "Excellent image quality with wide color range",
+      "Image preservation overcoat layer",
+      "All-in-One Cartridge",
+      "4Pass printing technology for Excellent photo quality",
+      "Free App with featuers like Video Print, Image Search, SNS Photo"
+    ],
+    "imageUrl": "/assets/images/phc80/1.jpg",
+    "lifestyleImages": ["/assets/images/phc80/lifestyle1.jpg", "/assets/images/phc80/lifestyle2.jpg", "/assets/images/phc80/lifestyle3.jpg"],
+    "description": "Packed with features – powerful 10MP Camera delivers high quality pictures in seconds; just point, shoot & print photos in 2. 1” x 3. 4” credit-card sized. Bluetooth connectivity – send shots to your iOS/android smart device to view, edit; download the free Kodak app to crop photos, add fun filters, & More. You can also send any image on your phone to the Camera for printing",
+    "iconsUrl": [],
+    "mainImageUrl": [],
+    "buyNowUrl": "https://walmart.com",
+    "productsURL": "/PHC80"
+  },
+
+  {
+    "id": 14,
+    "h1": "Dock Plus & Dock Photo Printer Cartridge",
+    "h2": "Cartridge Refill & Photo Paper - 40 Pack",
+    "brand": "KODAK",
+    "model": "PHC120",
+    "category": "Paper",
+    "sizeCategory": "4.125 x 5.875 Inches",
+    "color": "Black",
+    "availableColors": [
+      ["Black", "/PHC80", "/assets/images/phc120/1.jpg"]
+    ], 
+    "availableSizes": [
+      ["PHC40", "/PHC40", "/assets/images/phc40/1.jpg"],
+      ["PHC80", "/PHC80", "/assets/images/phc80/1.jpg"],
+      ["PHC120", "/PHC120", "/assets/images/phc120/1.jpg"]
+    ],
+    "technology": "Dye Sublimation Technology",
+    "photoSize": "Photo Size : 2.1 x 3.4 inch",
+    "dimensions": "Dimensions : 13.4 x 10.4 x 3.0 cm",
+    "initialCartridge": "Inititial Cartridge 8 Photos",
+    "conenction": "Smartphone Connection by Bluetooth",
+    "price": "$99.99",
+    "featuresP": [
+      "BOLD, VIBRANT COLOR – Combination ink cartridge prints high quality full color photographs; Compatible with Kodak Dock Printer.",
+      "UNIQUE D2T2 INNOVATION – Advanced Dye Diffusion transfer technology applies colors quickly & Evenly; Maximum gradation reduces blurring & distortion.",
+      "LONG LASTING PRINTS – Unique 4th layer overcoat laminates paper to preserve image quality; Creates humidity & fingerprint resistant finish that won’t fade.",
+      "EASY MAINTENANCE – Simple cartridge refills are effortless to remove & replace; Pull with two fingers to eject, then insert new cartridge to resume printing.",
+      "MULTIPLE REFILL PACKS – Choose from photo increments of 40, 80, or 120; Great for printing portrait photos, landscapes, family pictures, greeting cards & more."
+    ],
+    "insideBox": [
+      "Dock Photo Printer Cartridge",
+      "Cartridge (120 Pack)"
+    ],
+    "featuresLi": [
+      "Excellent image quality with wide color range",
+      "Image preservation overcoat layer",
+      "All-in-One Cartridge",
+      "4Pass printing technology for Excellent photo quality",
+      "Free App with featuers like Video Print, Image Search, SNS Photo"
+    ],
+    "imageUrl": "/assets/images/phc120/1.jpg",
+    "lifestyleImages": ["/assets/images/phc120/lifestyle1.jpg", "/assets/images/phc120/lifestyle2.jpg", "/assets/images/phc120/lifestyle3.jpg"],
+    "description": "Packed with features – powerful 10MP Camera delivers high quality pictures in seconds; just point, shoot & print photos in 2. 1” x 3. 4” credit-card sized. Bluetooth connectivity – send shots to your iOS/android smart device to view, edit; download the free Kodak app to crop photos, add fun filters, & More. You can also send any image on your phone to the Camera for printing",
+    "iconsUrl": [],
+    "mainImageUrl": [],
+    "buyNowUrl": "https://walmart.com",
+    "productsURL": "/PHC120"
+  },
+
+  {
+    "id": 15,
+    "h1": "Mini 2 Photo Printer Cartridge 20 Pack",
+    "h2": "MC All-in-One Paper and Color Ink Cartridge Refill ",
+    "brand": "KODAK",
+    "productName": "Instant Printer",
+    "category": "Paper",
+    "model": "MSC20",
+    "sizeCategory": "4.125 x 5.875 Inches",
+    "color": "Black",
+    "availableColor": ["None"],
+    "technology": "Dye Sublimation Technology",
+    "photoSize": "Photo Size : 2.1 x 3.4 inch",
+    "dimensions": "Dimensions : 13.4 x 10.4 x 3.0 cm",
+    "initialCartridge": "Inititial Cartridge 8 Photos",
+    "conenction": "Smartphone Connection by Bluetooth",
+    "price": "$99.99",
+    "featuresP": [
+      "BOLD, VIBRANT COLOR – Combination ink cartridge prints high quality full color photographs; Compatible with Kodak Dock Printer.",
+      "UNIQUE D2T2 INNOVATION – Advanced Dye Diffusion transfer technology applies colors quickly & Evenly; Maximum gradation reduces blurring & distortion.",
+      "LONG LASTING PRINTS – Unique 4th layer overcoat laminates paper to preserve image quality; Creates humidity & fingerprint resistant finish that won’t fade.",
+      "EASY MAINTENANCE – Simple cartridge refills are effortless to remove & replace; Pull with two fingers to eject, then insert new cartridge to resume printing.",
+      "MULTIPLE REFILL PACKS – Choose from photo increments of 40, 80, or 120; Great for printing portrait photos, landscapes, family pictures, greeting cards & more."
+    ],
+    "insideBox": [
+      "All In One Cartridge",
+      "Cartridge (20 Pack)"
+    ],
+    "featuresLi": [
+      "Excellent image quality with wide color range",
+      "Image preservation overcoat layer",
+      "All-in-One Cartridge",
+      "4Pass printing technology for Excellent photo quality",
+      "Free App with featuers like Video Print, Image Search, SNS Photo"
+    ],
+    "imageUrl": "/assets/images/msc20/1.jpg",
+    "description": "Packed with features – powerful 10MP Camera delivers high quality pictures in seconds; just point, shoot & print photos in 2. 1” x 3. 4” credit-card sized. Bluetooth connectivity – send shots to your iOS/android smart device to view, edit; download the free Kodak app to crop photos, add fun filters, & More. You can also send any image on your phone to the Camera for printing",
+    "iconsUrl": [],
+    "mainImageUrl": [],
+    "buyNowUrl": "https://walmart.com",
+    "productsURL": "/MSC20"
+  },
+
+  {
+    "id": 16,
+    "h1": "Mini 2 Photo Printer Cartridge 30 Pack",
+    "h2": "MC All-in-One Paper and Color Ink Cartridge Refill ",
+    "brand": "KODAK",
+    "productName": "Instant Printer",
+    "category": "Paper",
+    "model": "MSC30",
+    "sizeCategory": "4.125 x 5.875 Inches",
+    "color": "Black",
+    "availableColor": ["None"],
+    "technology": "Dye Sublimation Technology",
+    "photoSize": "Photo Size : 2.1 x 3.4 inch",
+    "dimensions": "Dimensions : 13.4 x 10.4 x 3.0 cm",
+    "initialCartridge": "Inititial Cartridge 8 Photos",
+    "conenction": "Smartphone Connection by Bluetooth",
+    "price": "$99.99",
+    "featuresP": [
+      "BOLD, VIBRANT COLOR – Combination ink cartridge prints high quality full color photographs; Compatible with Kodak Dock Printer.",
+      "UNIQUE D2T2 INNOVATION – Advanced Dye Diffusion transfer technology applies colors quickly & Evenly; Maximum gradation reduces blurring & distortion.",
+      "LONG LASTING PRINTS – Unique 4th layer overcoat laminates paper to preserve image quality; Creates humidity & fingerprint resistant finish that won’t fade.",
+      "EASY MAINTENANCE – Simple cartridge refills are effortless to remove & replace; Pull with two fingers to eject, then insert new cartridge to resume printing.",
+      "MULTIPLE REFILL PACKS – Choose from photo increments of 40, 80, or 120; Great for printing portrait photos, landscapes, family pictures, greeting cards & more."
+    ],
+    "insideBox": [
+      "Dock Photo Paper Cartridge",
+      "Cartridge (120 Pack)",
+      "User Manual",
+      "USB Cable"
+    ],
+    "featuresLi": [
+      "Excellent image quality with wide color range",
+      "Image preservation overcoat layer",
+      "All-in-One Cartridge",
+      "4Pass printing technology for Excellent photo quality",
+      "Free App with featuers like Video Print, Image Search, SNS Photo"
+    ],
+    "imageUrl": "/assets/images/msc30/1.jpg",
+    "description": "Packed with features – powerful 10MP Camera delivers high quality pictures in seconds; just point, shoot & print photos in 2. 1” x 3. 4” credit-card sized. Bluetooth connectivity – send shots to your iOS/android smart device to view, edit; download the free Kodak app to crop photos, add fun filters, & More. You can also send any image on your phone to the Camera for printing",
+    "iconsUrl": [],
+    "mainImageUrl": [],
+    "buyNowUrl": "https://walmart.com",
+    "productsURL": "/MSC30"
+  },
+
+  {
+    "id": 17,
+    "h1": "Mini 2 Photo Printer Cartridge 50 Pack",
+    "h2": "MC All-in-One Paper and Color Ink Cartridge Refill ",
+    "brand": "KODAK",
+    "productName": "Instant Printer",
+    "category": "Paper",
+    "model": "MSC50",
+    "sizeCategory": "4.125 x 5.875 Inches",
+    "color": "Black",
+    "availableColor": ["None"],
+    "technology": "Dye Sublimation Technology",
+    "photoSize": "Photo Size : 2.1 x 3.4 inch",
+    "dimensions": "Dimensions : 13.4 x 10.4 x 3.0 cm",
+    "initialCartridge": "Inititial Cartridge 8 Photos",
+    "conenction": "Smartphone Connection by Bluetooth",
+    "price": "$99.99",
+    "featuresP": [
+      "BOLD, VIBRANT COLOR – Combination ink cartridge prints high quality full color photographs; Compatible with Kodak Dock Printer.",
+      "UNIQUE D2T2 INNOVATION – Advanced Dye Diffusion transfer technology applies colors quickly & Evenly; Maximum gradation reduces blurring & distortion.",
+      "LONG LASTING PRINTS – Unique 4th layer overcoat laminates paper to preserve image quality; Creates humidity & fingerprint resistant finish that won’t fade.",
+      "EASY MAINTENANCE – Simple cartridge refills are effortless to remove & replace; Pull with two fingers to eject, then insert new cartridge to resume printing.",
+      "MULTIPLE REFILL PACKS – Choose from photo increments of 40, 80, or 120; Great for printing portrait photos, landscapes, family pictures, greeting cards & more."
+    ],
+    "insideBox": [
+      "Dock Photo Paper Cartridge",
+      "Cartridge (120 Pack)",
+      "User Manual",
+      "USB Cable"
+    ],
+    "featuresLi": [
+      "Excellent image quality with wide color range",
+      "Image preservation overcoat layer",
+      "All-in-One Cartridge",
+      "4Pass printing technology for Excellent photo quality",
+      "Free App with featuers like Video Print, Image Search, SNS Photo"
+    ],
+    "imageUrl": "/assets/images/msc50/1.jpg",
+    "description": "Packed with features – powerful 10MP Camera delivers high quality pictures in seconds; just point, shoot & print photos in 2. 1” x 3. 4” credit-card sized. Bluetooth connectivity – send shots to your iOS/android smart device to view, edit; download the free Kodak app to crop photos, add fun filters, & More. You can also send any image on your phone to the Camera for printing",
+    "iconsUrl": [],
+    "mainImageUrl": [],
+    "buyNowUrl": "https://walmart.com",
+    "productsURL": "/MSC50"
+  }
+
+]

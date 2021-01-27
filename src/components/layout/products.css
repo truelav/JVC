@@ -1,0 +1,8 @@
+
+.productCategoryImageContainer {
+  display: flex;
+}
+
+.productCategoryImageContainer > img {
+  margin: auto;
+}

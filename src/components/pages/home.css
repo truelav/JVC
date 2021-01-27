@@ -1,0 +1,45 @@
+.homeCategoriesContainer {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  grid-column-gap: 1.5em;
+  grid-row-gap: 1.5em;
+  max-width: 90vw;
+  margin: auto;
+  padding-top: 50px;
+  padding-bottom: 50px;
+}
+
+.homeCategoryContainer {
+  border: solid 1px rgb(163, 163, 163);
+  padding: 1.5em;
+  text-align: center;
+}
+
+.homeCategoryIconContainer {
+  display: flex;
+}
+
+.homeCategoryIcon {
+  max-width: 50px;
+  margin: auto;
+}
+
+.LearnMoreButton {
+  background-color: rgba(255, 183, 0 , 1);
+  padding: 15px 25px;
+  border-radius: 10px;
+  border: none;
+  margin-top: 1em;
+  margin-right: 1em;
+  min-width: 150px;
+}
+
+.LearnMoreButton:hover {
+  cursor: pointer;
+  background-color: red;
+  color: white;
+}
+
+.LearnMoreButton > a {
+  color: red;
+}

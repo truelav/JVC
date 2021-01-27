@@ -1,0 +1,48 @@
+.footerSection {
+  background-color: black;
+  color: white;
+
+}
+
+.footerContainer {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr 1fr;
+  max-width: 80vw;
+  margin: auto;
+  padding-top: 2em;
+}
+
+.footerCopyrightContainer {
+  text-align: center;
+  padding-top: 2em;
+  padding-bottom: 2em;
+}
+
+.footerList {
+  list-style-type: none;
+}
+
+.footerList > li {
+  font-size: 18px;
+}
+
+.footerListA {
+  font-weight: 600;
+}
+
+.footerListB {
+  color: rgb(221, 221, 221);
+  padding-bottom: 0.3em;
+}
+
+.footerCopyrightContainer {
+  max-width: 80vw;
+  margin: auto;
+}
+
+.footerHeader {
+  font-size: 3vw;
+  font-weight: 800;
+  margin-bottom: 0;
+  color: rgb(250, 9, 9);
+}

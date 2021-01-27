@@ -1,0 +1,34 @@
+.contactSection {
+  height: 80vh;
+  margin: auto;
+  display: flex;
+}
+
+.contactContainer {
+  width: 60vw;
+  margin: auto;
+}
+
+form {
+  border: solid 1px rgb(163, 163, 163);
+  padding: 1.5em;
+  text-align: left;
+}
+
+input,
+textarea {
+  background-color: rgb(255, 250, 239);
+  padding: 15px 25px;
+  border-radius: 10px;
+}
+
+label {
+  font-size: 20px;
+  padding-bottom: 10px;
+}
+
+.form-group {
+  display: grid;
+  grid-template-columns: 1fr;
+  margin: 25px auto;
+}
